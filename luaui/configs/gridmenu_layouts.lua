@@ -8,7 +8,7 @@ local labGrids = {
 		"armrock",
 		"armham",
 		"armwar",
-		"", -- rocko, hammer, warrior
+		"armsoldier", -- rocko, hammer, warrior, rifleman
 		"",
 		"",
 		"armjeth", -- aa bot
@@ -18,7 +18,7 @@ local labGrids = {
 		"corck",
 		"cornecro",
 		"corak",
-		"", -- T1 con, rez bot, AK
+		"corsoldier", -- T1 con, rez bot, AK, rifleman
 		"corstorm",
 		"corthud",
 		"",
@@ -3672,7 +3672,7 @@ if Spring.GetModOptions().techsplit then
 		"armrock",
 		"armwar",
 		"armham",
-		"", -- rocko, hammer, warrior
+		"armsoldier", -- rocko, hammer, warrior, rifleman
 		"",
 		"",
 		"armjeth",

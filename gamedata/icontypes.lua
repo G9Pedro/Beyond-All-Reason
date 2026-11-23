@@ -523,6 +523,10 @@ local icontypes = {
 		bitmap = "icons/bot_t1_flea.png",
 		size = 0.53549999,
 	},
+	armsoldier = {
+		bitmap = "icons/bot_t1_tinyworker.png",
+		size = 0.35,
+	},
 	armfmine3 = {
 		bitmap = "icons/mine.png",
 		size = 0.55649996,
@@ -2199,6 +2203,10 @@ local icontypes = {
 	corsolar = {
 		bitmap = "icons/energy1_1.0.png",
 		size = 1.04999995,
+	},
+	corsoldier = {
+		bitmap = "icons/bot_t1_tinyworker.png",
+		size = 0.35,
 	},
 	corsonar = {
 		bitmap = "icons/radar_t1.png",

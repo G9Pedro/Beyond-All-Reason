@@ -37,6 +37,7 @@ return {
 			[4] = "corstorm",
 			[5] = "corthud",
 			[6] = "corcrash",
+			[7] = "corsoldier",
 		},
 		customparams = {
 			buildinggrounddecaldecayspeed = 30,
